@@ -87,8 +87,8 @@ Recommendations
 
 ▶️ How to Run the Project
 1. Clone Repository
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/Santhoshkumar35813/Customer_behaviour_analysis.git
+cd Customer_behaviour_analysis.git
 
 
 2. Run Python EDA Notebook
